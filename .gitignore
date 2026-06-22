@@ -1,0 +1,4 @@
+
+# Ignore Python cache files anywhere inside this directory
+**/__pycache__/
+*.pyc
