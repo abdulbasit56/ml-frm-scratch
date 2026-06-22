@@ -2,7 +2,7 @@
 
 > Part of the [ml-from-scratch](https://github.com/abdulbasit56/ml-from-scratch) repository · Course 1 of Andrew Ng's Machine Learning Specialization
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit)](YOUR_STREAMLIT_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit)](https://regr-demo.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/Built%20with-NumPy-013243?logo=numpy)](https://numpy.org/)
 

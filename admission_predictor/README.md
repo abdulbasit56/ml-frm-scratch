@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit)](YOUR_STREAMLIT_URL)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/Built%20with-NumPy-013243?logo=numpy)](https://numpy.org/)
-[![Streamlit](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-FF4B4B?logo=streamlit)](YOUR_STREAMLIT_URL)
+[![Streamlit](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-FF4B4B?logo=streamlit)](https://regr-demo.streamlit.app/)
 
 ---
 
@@ -18,7 +18,7 @@ Two supervised learning models built **entirely from scratch** — no scikit-lea
 | Graduate Admission Predictor | Linear Regression | Predict admission probability (0–1) | R² = 0.82, MAE = 0.042 |
 | Student Pass/Fail Classifier | Logistic Regression | Classify pass or fail (binary) | ~95%+ accuracy |
 
-**[→ Try the live app](YOUR_STREAMLIT_URL)**
+**[→ Try the live app](https://regr-demo.streamlit.app/)**
 
 ---
 
