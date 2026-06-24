@@ -24,19 +24,7 @@ def get_regression_model():
 @st.cache_resource
 def get_classifier_model():
     return load_clf_model(prefix='student_model')
-try:
-    w, b, mu, sigma = get_regression_model()
-    st.write("Regression model loaded OK")
-except Exception as e:
-    st.error(f"Regression model error: {e}")
-    st.code(traceback.format_exc())
 
-try:
-    w2, b2, mu2, sigma2 = get_classifier_model()
-    st.write("Classifier model loaded OK")
-except Exception as e:
-    st.error(f"Classifier model error: {e}")
-    st.code(traceback.format_exc())
     
 tab1, tab2 = st.tabs(["Admission Chance", "Pass / Fail"])
 
